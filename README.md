@@ -2,6 +2,6 @@
 
 ### Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhcoding&show_icons=true&count_private=true&disable_animations=true)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=xhcoding)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xhcoding&layout=compact&langs_count=8&hide=jupyter+notebook)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xhcoding&layout=compact&langs_count=8&hide=jupyter+notebook)
